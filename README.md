@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Rautpranav0824/Rautpranav0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pranav, a backend engineer in the making, based in Pune, India.
 
-Here are some ideas to get you started:
+I build whatever I can imagine — if an idea pops into my head, chances are I'll try to build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build backends that solve real problems.
+
+---
+
+### Tools & Tech
+
+- Java + Spring Boot
+- MySQL + MongoDB
+- Data Structures & Algorithms
+
+---
+
+### What I'm currently working on
+
+- Journal Entry REST API — Spring Boot + MongoDB
+- DSA — Striver A2Z sheet
+
+---
+
+### A Bit About Me
+
+- 🎮 Diamond 2 in Valorant
+- 🏊 Swimmer + cyclist
+- 💪 I love working out in the gym
+- 🔨 I don't sleep on ideas — I build them
+
+---
+
+### Reach Me
+
+- 📧 pranavraut.dev@gmail.com
+
