@@ -18,7 +18,7 @@ I design and build backends that solve real problems.
 
 ### What I'm currently working on
 
-- Journal Entry REST API — Spring Boot + MongoDB
+- Journal Entry REST API — Spring Boot + MongoDB ( deployment )
 -  Expense Tracker — Spring Boot + MongoDB REST API
 -  Event-Driven Backend — Spring Boot + Kafka
 -  DSA — Java
