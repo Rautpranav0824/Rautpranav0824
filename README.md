@@ -11,7 +11,8 @@ I design and build backends that solve real problems.
 ### Tools & Tech
 
 - Java + Spring Boot
-- MySQL + MongoDB
+- MySQL + MongoDB + PostgreSQL
+- Kafka , Redis
 - Data Structures & Algorithms
 
 ---
