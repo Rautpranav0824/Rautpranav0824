@@ -18,11 +18,12 @@ I design and build backends that solve real problems.
 ---
 
 ### What I'm currently working on
+ 
+-  Handling large datasets in Java**: parsing 180k+ row CSV files, cleaning messy real-world data, and indexing it in memory for instant lookups (IndiaFin API)
+-  REST API design with Spring Boot**: input validation, consistent error handling (400/404), and a layered controller, service and model structure
+-  Validation logic**: regex rules and checksum algorithms for identifiers like IFSC, PAN and GSTIN
+-  Unit and integration testing**: getting started with JUnit and Spring Boot tests
 
-- CodeForgeV1 — Building a DSA practice platform using Java + Spring Boot + PostgreSQL
--  Event-Driven Backend — Spring Boot + Kafka
--  DSA — Java
--  Learning frontend fundamentals to build interfaces for my backend projects
 
 ---
 
